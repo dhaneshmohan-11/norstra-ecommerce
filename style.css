@@ -1,0 +1,735 @@
+
+.offerbar{
+    background-color: #1D232C;
+    color: white;
+}
+.offerbar__1{
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.Navbar{
+    display: flex;
+    background-color: white;
+    top: 0px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Navbar__one{
+    font-size:xx-large;
+    font-weight: bolder;
+}
+.Navbar__two{
+    display: flex;
+    gap: 80px;
+    font-size: larger;
+    
+}
+.Navbar__two:hover{
+    cursor: pointer;
+}
+.container{
+    
+
+}
+.img-1{
+    height: 500px;
+}
+.brand-container{
+    padding: 50px;
+    position: relative;
+    width: 100%;
+    
+}
+.brand-img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.brand-1{
+    height: 80px;
+
+    
+}
+.brand-2{
+    height: 80px;
+    position:absolute ;
+    left: 250px;
+}
+
+.brand-3{
+    height: 80px;
+    position:absolute ;
+    left: 500px;
+
+}
+.brand-4{
+    height: 80px;
+    position:absolute ;
+    left: 750px;
+
+
+}
+.brand-5{
+    height: 80px;
+    position:absolute ;
+    left: 1000px;
+
+}
+.brand-6{
+    height: 80px;
+    position:absolute ;
+    left: 1250px;
+
+}
+.brand-txt1{
+    font-size: larger;
+    position: absolute;
+    left: 65px;
+
+}
+.brand-txt2{
+    font-size: larger;
+    position: absolute;
+    left: 270px;
+
+}
+.brand-txt3{
+    font-size: larger;
+    position: absolute;
+    left: 520px;
+
+}
+.brand-txt4{
+    font-size: larger;
+    position: absolute;
+    left: 770px;
+
+}
+.brand-txt5{
+    font-size: larger;
+    position: absolute;
+    left: 1000px;
+
+}
+.brand-txt6{
+    font-size: larger;
+    position: absolute;
+    left: 1270px;
+
+}
+.content{
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.content__two{
+    font-size: x-large;
+    position: absolute;
+    left: 55%;
+}
+
+.message{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+
+}
+.message__one{
+    padding-left: 10px;
+    height: 150px;
+    width: 350px;
+    background-color:gray;
+    color: black;
+}
+.message__two{
+    padding-left: 10px;
+    height: 150px;
+    width: 350px;
+    background-color:gray;
+    color: black;
+}
+.message__three{
+    padding-left: 10px;
+    height: 150px;
+    width: 350px;
+    background-color:gray;
+    color: black;
+}
+.message__four{
+    padding-left: 10px;
+    height: 150px;
+    width: 350px;
+    background-color:gray;
+    color: black;
+}
+.card{
+    
+    padding-top: 25px;
+    position: relative;
+}
+.card-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__1{
+    
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.card-one{
+    position: absolute;
+    left: 90px;
+    bottom: 100px;
+}
+.pb1{
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.card__2{
+    
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.card-two{
+    position: absolute;
+    left: 500px;
+    bottom: 100px;
+}
+.pb2{
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.card__3{
+    
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.card-three{
+    position: absolute;
+    left: 890px;
+    bottom: 100px;
+}
+.pb3{
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.card__4{
+    
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.card-four{
+    position: absolute;
+    left: 1290px;
+    bottom: 100px;
+}
+.pb4{
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.mostwanter{
+    padding-top: 30px;
+    position: relative;
+    
+}
+.most-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.mostcard-1{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.b1{
+    background-color: orangered;
+    color: white;
+    position: absolute;
+    top: 112px;
+    left: 2px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.heart-1{
+    position: absolute;
+    bottom: 10px;
+    left: 250px;
+    font-size:xx-large;
+}
+
+.mostcard-2{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.b2{
+    background-color: orangered;
+    color: white;
+    position: absolute;
+    top: 112px;
+    left: 390px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.heart-2{
+    position: absolute;
+    bottom: 10px;
+    left: 640px;
+    font-size:xx-large;
+}
+
+.mostcard-3{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.b3{
+    background-color: orangered;
+    color: white;
+    position: absolute;
+    top: 112px;
+    left: 780px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.heart-3{
+    position: absolute;
+    bottom: 10px;
+    left: 1020px;
+    font-size:xx-large;
+}
+
+.mostcard-4{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.b4{
+    background-color: orangered;
+    color: white;
+    position: absolute;
+    top: 112px;
+    left: 1165px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.heart-4{
+    position: absolute;
+    bottom: 10px;
+    left: 1400px;
+    font-size:xx-large;
+}
+
+.limited{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background-color: #1D232C;
+    margin-top: 50px;
+}
+.limited-img{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+.limited-txt{
+    position: absolute;
+    color: white;
+    left: 700px;
+    top: 80px;
+}
+.lmt-btn{
+    padding: 20px;
+    border-radius: 15px;
+
+}
+.letter{
+    padding-top: 60px;
+    text-align: center;
+}
+.sbtn{
+    padding-top: 20px;
+}
+.letter-2{
+    font-size:xx-large;
+    
+}
+.letter-3{
+    font-size: large;
+}
+.letter-4{
+    width: 50%;
+    height: 25px;
+}
+.sbtn1{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #1D232C;
+    color: white;
+    border: none;
+   
+}
+.footer{
+    background-color: #1D232C;
+    color: white;
+    padding-top: 20px;
+}
+.footer-1{
+    padding-top: 5px;
+    padding-left: 40px;
+    font-size: xx-large;
+}
+.icon-flex{
+    display: flex;
+    padding-left: 40px;
+    gap: 50px;
+    font-size: xx-large;
+}
+.icon-end{
+    padding-left: 40px;
+    font-size: xx-large;
+    margin-bottom: 20px;
+
+}
+.left-1{
+    font-size: xx-large;
+}
+
+.left-2{
+    font-size: x-large;
+}
+.left-footer-2{
+    padding-top: 10px;
+}
+.vertical-line{
+    position: absolute;
+    left: 350px;
+    top: 200px;
+    width: 3px;
+    height: 1450px;
+    background-color: black;
+}
+.input-bar{
+    position: absolute;
+    width: 70%;
+    height: 40px;
+    top: 200px;
+    left: 450px;
+    border-radius: 10px;
+    border:  solid black 2px;
+}
+
+.search{
+    position: absolute;
+    top: 195px;
+    left: 97%
+}
+.col-1{
+    position: absolute;
+    top: 300px;
+    left: 470px;
+}
+.col-img-1{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-1{
+    font-size: xx-large;
+}
+
+.col-2{
+    position: absolute;
+    top: 300px;
+    left: 820px;
+}
+.col-img-2{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-2{
+    font-size: xx-large;
+}
+
+.col-3{
+    position: absolute;
+    top: 300px;
+    left: 1180px;
+}
+.col-img-3{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-3{
+    font-size: xx-large;
+}
+
+.col-4{
+    position: absolute;
+    top: 750px;
+    left: 470px;
+}
+.col-img-4{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-4{
+    font-size: xx-large;
+}
+
+.col-5{
+    position: absolute;
+    top: 750px;
+    left: 820px;
+}
+.col-img-5{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-5{
+    font-size: xx-large;
+}
+
+.col-6{
+    position: absolute;
+    top: 750px;
+    left: 1180px;
+}
+.col-img-6{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-6{
+    font-size: xx-large;
+}
+
+.col-7{
+    position: absolute;
+    top: 1220px;
+    left: 470px;
+}
+.col-img-7{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-7{
+    font-size: xx-large;
+}
+
+.col-8{
+    position: absolute;
+    top: 1220px;
+    left: 820px;
+}
+.col-img-8{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-8{
+    font-size: xx-large;
+}
+
+.col-9{
+    position: absolute;
+    top: 1220px;
+    left: 1180px;
+}
+.col-img-9{
+    height: 300px;
+    width: 300px;
+}
+.col-txt-9{
+    font-size: xx-large;
+}
+.collection-letter{
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+    position: absolute;
+    top: 1700px;
+    left: 20%;
+   
+}
+
+.col-sbtn{
+    padding-top: 20px;
+    position: absolute;
+    left: 500px;
+}
+.col-2letter-2{
+    font-size:xx-large;
+    
+}
+.col-3letter-3{
+    font-size: large;
+}
+.col-4letter-4{
+    width: 100%;
+    height: 25px;
+}
+.col-sbtn1{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #1D232C;
+    color: white;
+    border: none;
+   
+}
+.collection-footer{
+    position: absolute;
+    top: 2000px;
+    width: 100%;
+    background-color: #1D232C;
+    color: white;
+}
+.contact-form{
+    position: relative;
+    top: 10px;
+    background-color: #1D232C;
+    color: white;
+}
+.contact-us{
+    position: absolute;
+    left: 300px;
+}
+
+.contact-input{
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    height: 100px;
+    width: 900px;
+    
+}
+.contact-name{
+    position: absolute;
+    left: 300px;
+    top: 200px;
+}
+.contact-email{
+    position: absolute;
+    left: 300px;
+    top: 380px;
+}
+.contact-input-email{
+    position: absolute;
+    left: 300px;
+    top: 430px;
+    height: 100px;
+    width: 900px;
+
+}
+.contact-message{
+    position: absolute;
+    left: 300px;
+    top: 560px;
+
+}
+.contact-input-message{
+    position: absolute;
+    left: 300px;
+    top: 610px;
+    height: 100px;
+    width: 900px;
+
+}
+.contact-footer{
+    position: absolute;
+    top: 900px;
+    background-color: #1D232C;
+    color: white;
+    width: 100%;
+}
+
+.ct-btn{
+    position: absolute;
+    top: 850px;
+    left: 310px;
+    padding: 15px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: greenyellow;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media  screen and (max-width:600px) {
+    .offerbar__1{
+        font-size: 12px;
+    }
+    .Navbar__two{
+        display: none;
+    }
+   
+   
+    
+}
+@media  screen and (min-width:600px) {
+    .bar{
+        display: none;
+    }
+   
+    
+}
+
+
